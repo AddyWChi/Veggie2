@@ -1,13 +1,13 @@
 ## Install Node JS
-Install version v24.19.0.
-URL: [https://nodejs.org/zh-tw/download](https://nodejs.org/zh-tw/download)
+Install version v24.19.0.  
+URL: [https://nodejs.org/zh-tw/download](https://nodejs.org/zh-tw/download)  
 
 
 ## Install Vue.js and Create a Project
 This project uses Vue 2.
 
-URL: [https://v2.vuejs.org/v2/guide/installation#NPM](https://v2.vuejs.org/v2/guide/installation#NPM)
-URL: [https://cli.vuejs.org/#getting-started](https://cli.vuejs.org/#getting-started)
+URL: [https://v2.vuejs.org/v2/guide/installation#NPM](https://v2.vuejs.org/v2/guide/installation#NPM)  
+URL: [https://cli.vuejs.org/#getting-started](https://cli.vuejs.org/#getting-started)  
 
 #### Install NPM
 ```
@@ -39,9 +39,7 @@ package.json
 
 
 ## Install Bootstrap for Vue
-
-URL: https://bootstrap-vue.org/docs/
-
+URL: https://bootstrap-vue.org/docs/  
 ```
 npm install vue bootstrap@4 bootstrap-vue
 ```
