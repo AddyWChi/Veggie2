@@ -19,7 +19,7 @@ $ npm install vue@^2
 ```
 npm install -g @vue/cli
 ```
-This will create following:
+This will create following:  
 [node_modules]  
 package-lock.json  
 package.json  
@@ -31,7 +31,7 @@ vue create my-project
 - This will create a folder 'my-project' under current folder.
 - Select to use Vue2.
 
-This will create following:
+This will create following:  
 [node_modules]  
 package-lock.json  
 package.json  
