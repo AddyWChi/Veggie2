@@ -20,9 +20,9 @@ $ npm install vue@^2
 npm install -g @vue/cli
 ```
 This will create following:
-[node_modules]
-package-lock.json
-package.json
+[node_modules]  
+package-lock.json  
+package.json  
 
 #### Create project
 ```
@@ -32,10 +32,10 @@ vue create my-project
 - Select to use Vue2.
 
 This will create following:
-[node_modules]
-package-lock.json
-package.json
-[my-project]  
+[node_modules]  
+package-lock.json  
+package.json  
+[my-project]    
 
 
 ## Install Bootstrap for Vue
